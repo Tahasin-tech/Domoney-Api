@@ -17,7 +17,7 @@
 - Test cases for this project: [Test Case](https://docs.google.com/spreadsheets/d/16WRdhkB6KHdj_OMN9VmbA4K2i881ZaK9/edit?usp=sharing&ouid=115080025741069195972&rtpof=true&sd=true)
 - Bug report for this project: [Bug Report](https://docs.google.com/spreadsheets/d/1CADrLhBnBtl7jijzN_vvpMc8NTSFc0oB/edit?usp=sharing&ouid=115080025741069195972&rtpof=true&sd=true)
 
-  ##Output:
+## Output:
   ![Capture](https://github.com/user-attachments/assets/30d24697-3cff-4414-a1c6-d248e3fba6ad)
 
  
